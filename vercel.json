@@ -1,7 +1,6 @@
 {
   "name": "express-hello-world",
   "version": "1.0.0",
-  "author": "fscarmen",
   "license": "MIT",
   "private": false,
   "scripts": {
